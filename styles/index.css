@@ -84,9 +84,6 @@ a.button3:hover{
     display: flex;
     justify-content: center;
 }
-.collaborators {
-    font-size: 20px;
-}
 .tech {
     font-size: 18px;
 }
